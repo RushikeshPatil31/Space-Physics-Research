@@ -1,0 +1,1 @@
+In each folder (named after the date of the event), you will find the averaging code, plotting code, correlation code, and the original data sets, Themis B averaged data sets, comparison Plots and correlation Plots. 
